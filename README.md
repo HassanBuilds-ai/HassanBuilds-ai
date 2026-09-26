@@ -4,14 +4,8 @@
 
 My name is **Muhammad Hassan**, and I am a *3rd semester* BS Data
 Science student at FCIT, University of The Punjab. I am from Chowk
-Sarwar Shaheed. My main interests are problem solving, web development
-and playing fooseball in my free time. I choose Data Science because my
-brother suggested this field to me and I decided to give it a try. Now
-I am learning different areas of computing and Data Science. I am
-learning `Python`, `Pandas` and `NumPy` and want to improve my skills
-step by step. I also enjoy making small projects because they help me
-understand programming better. My future goal is to become a data
-specialist and build my own software house.
+Sarwar Shaheed currently living in Lahore. My main interests are problem solving, web development
+Data Management and real life Problems. 
 
 ------------------------------------------------------------------------
 
@@ -21,15 +15,14 @@ specialist and build my own software house.
   | Technology | My Level | Experience | I Use It For |
   |-|-|-|-|
   | C++ | Good | 1.5 years | Programming,problem solving,university work |
-  | Python | Beginner | 1 month | Learning programming and basic Data Science |
+  | Python | Good | 1 year | Learning programming and basic Data Science |
   | C | Intermediate | 1 year | Programming practice and university work |
-  | HTML | Intermediate | 2 months | Learning and Building my Project work, Portfolio website |
+  | HTML | Intermediate | 6 months | Learning and Building my Project work, Portfolio website |
   | CSS | Intermediate | Learning | Portfolio website |
-  | GitHub | Begginer | 1 month | Share coding projects |
-  | MS Excel | Good | 2 months | Data handling, calculations, Study work |
-  | MS Word | Good | 2 months | Assignments, Reports |
-  | Pandas | Begginer | Just learning | Learning Data Science |
-  | Numpy | Begginer | Just learning | Learning Data Science and Numerical data |
+  | GitHub | Good | 1 Year | Share coding projects |
+  | MS Excel | Good | 2 Years | Data handling, calculations, Study work |
+  | MS Word | Good | 2 Years | Assignments, Reports |
+ 
   
 ------------------------------------------------------------------------
 
@@ -46,13 +39,16 @@ specialist and build my own software house.
 9.  Built a Snake game.
 10. Improved my skills in OOP.
 11. Building concepts in DSA.
+12. Learned Python
 
-### Areas I Have Learned or Learning
+### Areas I Have Learned
 
 -   **Programming**
     - C
     - C++
+    - Python
     - OOP
+    - DSA
     - Problem Solving
 -   **Web Development**
     - HTML
@@ -88,7 +84,7 @@ Resource: [cppreference](https://en.cppreference.com/)
 ### 2. Python
 
 I like Python because its syntax is simple and it is useful for Data
-Science. I am still a beginner and I am learning it step by step.
+Science. Too easy to use with built in libraries. Using it in Real Projects.
 
 Resource: [python.org](https://www.python.org/)
 
@@ -151,27 +147,6 @@ with international education data.
 
 ------------------------------------------------------------------------
 
-## Mathematical Expressions
-
-**Mean:**
-
-`Mean = Σx / n`
-
-**Retention Rate:**
-
-`Retention Rate = (Number of Students Retained / Number of Students Enrolled) × 100`
-
-------------------------------------------------------------------------
-
-## Blockquotes
-
-> *"Never give up because great things take time."*
->
-> — Personal Reminder
-
-> *"Talk is cheap. Show me the code."*
->
-> — Linus Torvalds
 
 ------------------------------------------------------------------------
 
@@ -181,30 +156,3 @@ with international education data.
 Science](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=1200&q=80)
 
 ------------------------------------------------------------------------
-
-## My Reflection
-
-Markdown is very easy and useful for organizing a lot of data. Specially begginers can learn it very easily. Can be used for building profiles and other documents. While working on
-this assignment I learned how headings, tables, lists, links, images
-and other Markdown features can make information easier to organize and
-read.
-
-------------------------------------------------------------------------
-
-## Markdown Features I Practiced
-
-- [x] Headings
-- [x] Bold text
-- [x] Italic text
-- [x] Inline code
-- [x] Ordered list
-- [x] Unordered list
-- [x] Nested list
-- [x] Links
-- [x] Images
-- [x] Tables
-- [x] Checklists
-- [x] Blockquotes
-- [x] Mathematical expressions
-- [x] Horizontal rule
-- [x] Strikethrough
